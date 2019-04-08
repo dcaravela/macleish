@@ -8,5 +8,5 @@ output: html_document:
 
 ```{r setup, include=FALSE}
 library(tidyverse)
+library(macleish)
 ```
-
